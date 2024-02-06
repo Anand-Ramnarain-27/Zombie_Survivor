@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20d6db436a5ef6b4599858ecc942e1e8, type: 3}
+  m_Name: AutoDrone
+  m_EditorClassIdentifier: 
+  upgradeName: Auto Drone
+  upgradeDescription: A drone that targets the closest enemy
+  upgradeIcon: {fileID: 21300000, guid: d6f2d38a4ef453e4d87e176e0f7cf65e, type: 2}
+  upgradlevels: []
+  upgradeClass: 0
+  upgradeType: 2
+  weaponType: {fileID: 0}
+  cyberwareType: 2

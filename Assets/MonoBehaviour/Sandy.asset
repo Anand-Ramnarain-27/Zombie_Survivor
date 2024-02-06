@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 250344640, guid: 57c9a3e5193e26c4b968cc86e528416d, type: 3}
+  m_Name: Sandy
+  m_EditorClassIdentifier:
+  components:
+  - {fileID: 11400000, guid: 4f3a1dff86eff93439886a006b0c5169, type: 2}
+  - {fileID: 11400000, guid: 22c5e463b68d7454493655eb1f21992c, type: 2}
+  - {fileID: 11400000, guid: e3ae9ef611fabdd45b88f1be93ef1246, type: 2}
+  - {fileID: 11400000, guid: d175a7b7a0e8ed0449816535286edb9b, type: 2}
+  - {fileID: 11400000, guid: 13b55c148988bbd418888f2dfc664832, type: 2}
+  - {fileID: 11400000, guid: 9d3eae3e1f58fb343b316ee0cb3f2fcc, type: 2}
+  - {fileID: 11400000, guid: f5cb87df10c56c845876d3ae5cd9f923, type: 2}
+  - {fileID: 11400000, guid: 162659188add9984381aaac72f674bfb, type: 2}
